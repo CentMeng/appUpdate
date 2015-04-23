@@ -1,20 +1,11 @@
-{\rtf1\ansi\ansicpg936\cocoartf1344\cocoasubrtf720
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset134 STHeitiSC-Light;}
-{\colortbl;\red255\green255\blue255;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
-
-\f0\fs24 \cf0 \{\
-	"name": \'93
-\f1 \'d6\'d0\'c3\'f1i\'cd\'b6
-\f0 \'94,\
-	"versionCode": 2,\
-	"versionName": \'931.0.1\'94,\
-	"description": "P2P
-\f1 \'c0\'ed\'b2\'c6\'c6\'bd\'cc\'a8\'a3\'ac\'d5\'b9\'ca\'be\'b1\'ea\'b5\'c4\'d0\'c5\'cf\'a2\'a1\'a2\'b8\'f6\'c8\'cb\'cd\'b6\'d7\'ca\'d0\'c5\'cf\'a2\'a1\'a2\'cd\'b6\'d7\'ca\'c0\'ed\'b2\'c6\'b2\'fa\'c6\'b7
-\f0 ",\
-	"date": "2015-01-04",\
-	"url": "http://dxdi.qiniudn.com/DXDI-2014-07-22.PRODUCT.apk_packed.apk",\
-	"forceUpdate": false,\
-	"updateType": 0\
-\}}
+{
+	"name": “中民i投”,
+	"versionCode": 2,
+	"versionName": “1.0.1”,
+	"description": "P2P理财平台，展示标的信息、个人投资信息、投资理财产品",
+	"date": "2015-01-20",
+	"url": "http://www.laitou.cn/download/app/laitou.apk",
+	"forceUpdate": false,
+	"updateType": 0,
+	"content": "修复首页轮播图偶尔空白问题"
+}
